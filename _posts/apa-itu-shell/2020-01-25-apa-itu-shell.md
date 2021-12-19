@@ -1,5 +1,5 @@
 ---
-title: What is a shell? 🐚 adalah kerang ajaib?
+title: What is life?
 date: 2020-01-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
 tags: [unix/linux, cli]
@@ -23,7 +23,7 @@ User<sup id="user">[[1]](#user-ref)</sup> tidak bisa secara langsung berkomunika
 <figcaption>Fig 2. bagan kernel.</figcaption>
 </figure>
 
-Kernel memfasilitasi interaksi antara komponen perangkat keras dan perangkat lunak, berperan untuk menangani permintaan input/ouput dari perangkat lunak, selanjutnya menerjemahkannya ke dalam pemrosesan data untuk diintruksikan ke CPU, sehingga Hardware(cpu, memory, devices) mengerti perintah yang dimaksud dari pengguna.
+Just writing 
 
 Ketika kita menginputkan suatu perintah pada terminal emulator, kernel tidak langsung mengerti perintah yang kita ketik, kita membutuhkan suatu interface sebagai perantara menuju kernel yaitu **Shell**.
 

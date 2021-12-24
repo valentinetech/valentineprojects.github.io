@@ -1,8 +1,8 @@
-- title: home
+- title: Home
   url: /
   external: false
 
-- title: archive
+- title: Articles
   url: /archive/
   external: false
 

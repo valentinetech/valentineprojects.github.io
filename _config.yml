@@ -1,24 +1,23 @@
-title: Think Build Value
+title: Think Build Value - Top business knowledge in one place
 description: >-
   Think Build Value is all curated knowledged from top businessmen and
   entrepreneurs or the world.  From business creation to product delivery. We
-  create short articles to get you going on your journey.
+  create short posts to get you going on your journey.
 lang: en-US
 image: assets/img/ogp.png
 mode: light
 author:
-  name: Jekyll Klisé
+  name: Think Build Value by Valentinas
   bio: >-
-    Think Build Value is all curated knowledged from top businessmen and
-    entrepreneurs or the world. From business creation to product delivery. We
-    create short articles to get you going on your journey. # tell to the world
-  username: username
-  github: github_username
-  twitter: twitter_username
-  facebook: facebook_username
-  email: your-email@email.com
+    Think Build Value is a resource all curated knowledged from top businessmen and
+    entrepreneurs in the world.
+  username: Valentinas  
+  #github: github_username
+  #twitter: twitter_username
+  #facebook: facebook_username
+  #email: your-email@email.com
   avatar: /assets/img/avatar.jpg
-url: 'https://valentineprojects.github.io/'
+url: 'https://thinkbuildvalue.com'
 baseurl: null
 permalink: '/:title/'
 google_analytics: null

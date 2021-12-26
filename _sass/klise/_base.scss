@@ -238,8 +238,8 @@ a {
   }
 
   &:focus {
-    outline: 3px solid rgba(0, 54, 199, 0.6);
-    outline-offset: 2px;
+    //outline: 3px solid rgba(0, 54, 199, 0.6);
+    //outline-offset: 2px;
   }
 }
 
@@ -351,8 +351,8 @@ table {
 // When mouse block a text set this color
 mark,
 ::selection {
-  background: #fffba0;
-  color: $black;
+  background: #13A10E;
+  color: $white;
 }
 
 // Github Gist clear border

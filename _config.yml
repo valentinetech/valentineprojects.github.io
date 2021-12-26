@@ -1,7 +1,7 @@
 title: Think Build Value - Top business knowledge in one place
 description: >-
-  Think Build Value is all curated knowledged from top businessmen and
-  entrepreneurs or the world.  From business creation to product delivery. We
+  💡Think 🔨Build 💰Value is a resource of all curated knowledge from top businessmen and entrepreneurs in the world.
+  From business creation to product delivery. We
   create short posts to get you going on your journey.
 lang: en-US
 image: assets/img/ogp.png
@@ -9,14 +9,13 @@ mode: light
 author:
   name: Think Build Value by Valentinas
   bio: >-
-    Think Build Value is a resource all curated knowledged from top businessmen and
-    entrepreneurs in the world.
+    💡Think 🔨Build 💰Value is a resource of all curated knowledge from top businessmen and entrepreneurs in the world.
   username: Valentinas  
   #github: github_username
-  #twitter: twitter_username
+  #twitter: 15165
   #facebook: facebook_username
   #email: your-email@email.com
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/logo.png
 url: 'https://thinkbuildvalue.com'
 baseurl: null
 permalink: '/:title/'

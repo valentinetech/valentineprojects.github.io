@@ -2,4 +2,4 @@
 
 Website with Jekyll and GitHub pages
 
-valentineprojects.github.io arba thinkbuildvalue.com
+[valentineprojects.github.io](valentineprojects.github.io) or [thinkbuildvalue.com](thinkbuildvalue.com)
